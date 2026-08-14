@@ -16,7 +16,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🧠%20LLMs-0078D7?style=flat-square"/>
-    <img src="https://img.shields.io/badge/⚡%20LangChain-1C3C3C?style=flat-square"/>
+    <img src="https://img.shields.io/badge/⚡%20LangGraph-1C3C3C?style=flat-square"/>
     <img src="https://img.shields.io/badge/🤖%20AI%20Agents-FF6B6B?style=flat-square"/>
     <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=flat-square"/>
   </p>
