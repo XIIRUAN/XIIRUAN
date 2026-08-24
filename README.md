@@ -20,7 +20,7 @@
   </p>
 
   <p>
-    ⭐ Open Source Contributor &nbsp; | &nbsp; 📚 10+ AI Projects
+    ⭐ Open Source Contributor &nbsp; | &nbsp; 📚 10+ AI Projects 
   </p>
 
    <p>
@@ -32,16 +32,6 @@
     <img src="https://img.shields.io/badge/☁️%20AWS-232F3E?style=flat-square" alt="AWS" />
     <img src="https://img.shields.io/badge/🗄️%20PostgreSQL-336791?style=flat-square" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/⚛️%20React-61DAFB?style=flat-square" alt="React" />
-  </p>
-  <p>
-    🤖 Contributor @
-    <a href="https://github.com/langgenius/dify">
-      <strong>Dify</strong>
-    </a>
-     &nbsp; | &nbsp; 🌱 Committer @
-    <a href="https://github.com/Algorineko/AgenticArXiv-RL">
-      <strong>AgenticArXiv-RL</strong>
-    </a>
   </p>
 </div>
 
