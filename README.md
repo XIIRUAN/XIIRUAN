@@ -16,13 +16,18 @@
   </p>
 
   <p>
-    <code>🎓 M.S. Student @ UNSW · Sydney —— 🔬 AI4SE Research.</code>
+    <code>🎓 M.S. Student @ UNSW · Sydney</code>
   </p>
 
   <p>
-    ⭐ Open Source Contributor &nbsp; | &nbsp; 📚 10+ AI Projects 
+    🔬 AI4SE Research &nbsp; | &nbsp; 📚 10+ AI Projects 
   </p>
-
+<p>
+  ⭐ Open Source Experience —
+  <a href="https://github.com/langgenius/dify"><strong>Dify</strong></a> Contributor
+  /
+  <a href="https://github.com/Algorineko/AgenticArXiv-RL"><strong>AgenticArXiv-RL</strong></a> Committer
+</p>
    <p>
     <img src="https://img.shields.io/badge/🧠%20LLMs-0078D7?style=flat-square" alt="LLMs" />
     <img src="https://img.shields.io/badge/⚡%20LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
