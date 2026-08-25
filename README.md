@@ -15,12 +15,13 @@
     <strong>I'm currently focused on LLM Systems &amp; Agentic Intelligence.</strong>
   </p>
 
-  <p>
-    <code>🎓 M.S. Student @ UNSW · Sydney</code>
-  </p>
+
 
   <p>
     🔬 AI4SE Research &nbsp; | &nbsp; 📚 10+ AI Projects 
+  </p>
+    <p>
+    <code>🎓 M.S. Student @ UNSW · Sydney</code>
   </p>
 <p>
   ⭐ Open Source Experience —
