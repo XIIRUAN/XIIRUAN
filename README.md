@@ -28,16 +28,7 @@
   /
   <a href="https://github.com/Algorineko/AgenticArXiv-RL"><strong>AgenticArXiv-RL</strong></a> Committer
 </p>
-   <p>
-    <img src="https://img.shields.io/badge/🧠%20LLMs-0078D7?style=flat-square" alt="LLMs" />
-    <img src="https://img.shields.io/badge/⚡%20LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-    <img src="https://img.shields.io/badge/🤖%20AI%20Agents-FF6B6B?style=flat-square" alt="AI Agents" />
-    <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=flat-square" alt="Python" />
-    <img src="https://img.shields.io/badge/⚙️%20FastAPI-009688?style=flat-square" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/☁️%20AWS-232F3E?style=flat-square" alt="AWS" />
-    <img src="https://img.shields.io/badge/🗄️%20PostgreSQL-336791?style=flat-square" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/⚛️%20React-61DAFB?style=flat-square" alt="React" />
-  </p>
+
 </div>
 
 </td>
